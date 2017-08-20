@@ -28,3 +28,5 @@ apache ALL=(ALL) NOPASSWD: /usr/bin/hostnamectl
 * iPXE and syslinux Bootloaderfiles and configuration will be included
 * LDAP AD Authentication & Group Image Assignments
 * MAC Based Image Auto Boot
+* DB Schema will be improved
+* PHP Code will be cleaned
